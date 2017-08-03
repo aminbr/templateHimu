@@ -1,0 +1,69 @@
+@import url(../fonts/yekan.css);
+/*=============================================================
+    Authour URI: www.binarytheme.com
+    License: Commons Attribution 3.0
+
+    http://creativecommons.org/licenses/by/3.0/
+
+    100% Free To use For Personal And Commercial Use.
+    IN EXCHANGE JUST GIVE US CREDITS AND TELL YOUR FRIENDS ABOUT US
+   
+    ========================================================  */
+
+/* =============================================================
+   GENERAL STYLES
+ ============================================================ */
+
+body {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size:20px;
+    font-family: yekan;
+}
+
+h1,h2,h4 {
+    font-family: 'Open Sans', sans-serif;
+    text-align: right;
+    font-family: 'yekan';
+}
+
+p{
+    text-align: center;
+    font-family: yekan;
+}
+
+.navbar img{
+    position: absolute;
+    left: 50px;
+}
+
+#main-carousel .carousel-inner h2{
+    font-family: yekan;
+}
+
+#main-carousel .carousel-inner p{
+    font-family: yekan;
+}
+
+.single-member p{
+    font-size: 15px;
+}
+
+.about-us h3{
+    text-align: right;
+}
+
+.single-service h2{
+    text-align: center;
+}
+
+.single-service p{
+    text-align: right;
+}
+
+.single-blog ul li{
+    float: right;
+}
+
+.single-blog p{
+    text-align: right;
+}
